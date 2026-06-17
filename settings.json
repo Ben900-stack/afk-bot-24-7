@@ -1,13 +1,13 @@
 {
   "bot-account": {
-    "username": "VF_Bot",
+    "username": "ThunderKing",
     "password": "",
     "type": "mojang"
   },
 
   "server": {
-    "ip": "game3.falixgame.net",
-    "port": 61400,
+    "ip": "ThunderSMP-roKx.aternos.me",
+    "port": 28170,
     "version": "1.19"
   },
 
